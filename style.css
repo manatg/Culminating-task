@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+    img {
+      display: block;
+      margin: auto;
+    }
+
+    p, h1, h2, h3, ul, li, ol{
+      text-align: center;
+    }
+
+li {
+  list-style-type: none
+}
